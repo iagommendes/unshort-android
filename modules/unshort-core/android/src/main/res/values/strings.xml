@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blocker_notification_title">Unshort protection active</string>
+    <string name="blocker_notification_text">Blocking accidental Shorts taps on YouTube</string>
+    <string name="blocker_notification_channel">Unshort blocker</string>
+</resources>
