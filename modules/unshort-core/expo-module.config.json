@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["UnshortCoreModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.unshortcore.UnshortCoreModule"]
+  }
+}

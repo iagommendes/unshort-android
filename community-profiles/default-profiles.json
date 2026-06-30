@@ -1,0 +1,22 @@
+[
+  {
+    "name": "pixel-default-5-tabs",
+    "deviceModel": "Pixel",
+    "tabCount": 5,
+    "shortsTabIndex": 1,
+    "leftPct": 0.2,
+    "topPct": 0.92,
+    "widthPct": 0.2,
+    "heightPct": 0.06
+  },
+  {
+    "name": "samsung-default-5-tabs",
+    "deviceModel": "Galaxy",
+    "tabCount": 5,
+    "shortsTabIndex": 1,
+    "leftPct": 0.2,
+    "topPct": 0.91,
+    "widthPct": 0.2,
+    "heightPct": 0.07
+  }
+]

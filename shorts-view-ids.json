@@ -1,0 +1,19 @@
+[
+  {
+    "youtubeVersion": "default",
+    "contentDescriptions": ["Shorts", "Shorts tab"],
+    "viewIds": [
+      "com.google.android.youtube:id/pivot_bar_shorts",
+      "com.google.android.youtube:id/shorts_tab",
+      "com.google.android.youtube:id/reel_tab"
+    ]
+  },
+  {
+    "youtubeVersion": "obfuscated-fallback",
+    "contentDescriptions": ["Shorts"],
+    "viewIds": [
+      "com.google.android.youtube:id/tab_view",
+      "com.google.android.youtube:id/pivot_bar_item"
+    ]
+  }
+]
